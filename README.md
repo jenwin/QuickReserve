@@ -1,4 +1,4 @@
-#reservation-form-react
+# reservation-form-react
 
 ## How to Start
 - Clone or Download
