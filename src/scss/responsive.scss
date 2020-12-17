@@ -1,0 +1,88 @@
+@import '../assets/_variables';
+
+@media screen
+and ( min-width: 701px )
+and ( max-width: 768px )
+and ( orientation: portrait ) {
+  .form-container {
+    padding: 4rem 0;
+    width: 90%;
+  }
+}
+
+@media screen
+and ( max-width: 700px )
+and ( orientation: portrait ) {
+  body {
+    min-width: 0;
+  }
+
+  .form-container {
+    padding-top: 3rem;
+    width: 100%;
+  }
+
+  .title {
+    font-size: 2.3rem;
+  }
+
+  .paragraph-container {
+    font-size: 1rem;
+    margin: 2rem 0;
+  }
+
+  .guest-info-container {
+    padding: 2.5rem 0.5rem 0 0.5rem;
+  }
+
+  .guest-label,
+  .time-label {
+    font-size: 0.9rem;
+  }
+
+  .guest-number {
+    padding: 0 0.6rem 0 0.1rem;
+  }
+
+  .time-btn {
+    font-size: 0.75rem;
+    width: 30%;
+  }
+
+  .button-container {
+    padding-bottom: 2rem;
+    text-align: center;
+  }
+
+  .author-ftr {
+    padding-bottom: 3rem;
+  }
+}
+
+//landscape mode
+@media screen
+and ( min-width: 661px )
+and ( max-width: 1400px )
+and ( orientation: landscape ) {
+  .form-container {
+    width: 90%;
+  }
+}
+
+@media screen
+and ( min-width: 200px )
+and ( max-width: 660px )
+and ( orientation: landscape ) {
+  .form-container {
+    padding-top: 3rem;
+    width: 90%;
+  }
+
+  .confirm-btn {
+    font-size: 0.8rem;
+  }
+
+  .author-ftr {
+    padding-bottom: 3rem;
+  }
+}
