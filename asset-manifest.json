@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reservation-form-react/static/css/main.e1db9d58.chunk.css",
+    "main.js": "/reservation-form-react/static/js/main.b2c92831.chunk.js",
+    "main.js.map": "/reservation-form-react/static/js/main.b2c92831.chunk.js.map",
+    "runtime-main.js": "/reservation-form-react/static/js/runtime-main.9c6a6f51.js",
+    "runtime-main.js.map": "/reservation-form-react/static/js/runtime-main.9c6a6f51.js.map",
+    "static/js/2.da209875.chunk.js": "/reservation-form-react/static/js/2.da209875.chunk.js",
+    "static/js/2.da209875.chunk.js.map": "/reservation-form-react/static/js/2.da209875.chunk.js.map",
+    "index.html": "/reservation-form-react/index.html",
+    "static/css/main.e1db9d58.chunk.css.map": "/reservation-form-react/static/css/main.e1db9d58.chunk.css.map",
+    "static/js/2.da209875.chunk.js.LICENSE.txt": "/reservation-form-react/static/js/2.da209875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c6a6f51.js",
+    "static/js/2.da209875.chunk.js",
+    "static/css/main.e1db9d58.chunk.css",
+    "static/js/main.b2c92831.chunk.js"
+  ]
+}
