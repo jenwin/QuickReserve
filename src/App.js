@@ -50,7 +50,6 @@ class App extends Component {
     e.preventDefault();
     // If time isn't selected
     if (!this.state.active && this.state.active !== 0) {
-      console.log(this.state.active)
       alert("Please select a time");
       return;
     }
@@ -81,7 +80,6 @@ class App extends Component {
 
   render() {
     const { times, date, active, first, last, phone, checked, groups, guests, email } = this.state;
-    console.log(this.state.active);
     
     return (
       <div className="app-container">
