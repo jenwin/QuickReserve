@@ -14,6 +14,7 @@ class Email extends Component {
         </label>
         <input
           id="email"
+          name="email"
           type="email"
           value={email}
           placeholder="Email"
