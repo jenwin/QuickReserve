@@ -19,6 +19,7 @@ class Email extends Component {
           value={email}
           placeholder="Email"
           onChange={handleInput}
+          required
         />
       </div>
     );

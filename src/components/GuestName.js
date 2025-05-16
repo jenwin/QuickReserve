@@ -21,6 +21,7 @@ class GuestName extends Component {
             placeholder="First Name"
             value={first}
             onChange={handleInput}
+            required
           />
         </div>
 
@@ -39,6 +40,7 @@ class GuestName extends Component {
             placeholder="Last Name"
             value={last}
             onChange={handleInput}
+            required
           />
         </div>
       </div>

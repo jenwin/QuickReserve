@@ -20,6 +20,7 @@ class PhoneNumber extends Component {
           pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
           value={phone}
           onChange={handleInput}
+          required
         />
       </div>
     );

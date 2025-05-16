@@ -19,6 +19,7 @@ class GuestDate extends Component {
           name="date"
           value={date}
           onChange={handleInput}
+          required
         />
       </div>
     );

@@ -48,6 +48,17 @@ class App extends Component {
 
   handleSubmit = e => {
     e.preventDefault();
+    // If time isn't selected
+    if (!this.state.active && this.state.active !== 0) {
+      console.log(this.state.active)
+      alert("Please select a time");
+      return;
+    }
+    // If number of guests not selected (radio buttons)
+    if (!this.state.checked && (!this.state.guests)) {
+      alert("Please select or enter the number of guests");
+      return;
+    }
   }
 
   handleInput = e => {
@@ -70,7 +81,8 @@ class App extends Component {
 
   render() {
     const { times, date, active, first, last, phone, checked, groups, guests, email } = this.state;
-
+    console.log(this.state.active);
+    
     return (
       <div className="app-container">
         <form onSubmit={this.handleSubmit} className="form-container">
