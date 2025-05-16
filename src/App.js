@@ -58,6 +58,8 @@ class App extends Component {
       alert("Please select or enter the number of guests");
       return;
     }
+
+    alert("Reservation confirmed!");
   }
 
   handleInput = e => {
