@@ -1,4 +1,4 @@
-@import "../assets/_variables";
+@use "../assets/variables" as *;
 
 * {
   box-sizing: border-box;
