@@ -12,7 +12,7 @@ QuickReserve is a simple, lightweight reservation form designed for restaurant b
 - Sass 
 
 ## Live Demo
-[jenwin.github.io/reservation-form-react](https://jenwin.github.io/reservation-form-react/)
+[jenwin.github.io/QuickReserve](https://jenwin.github.io/QuickReserve/)
 
 ## License
 GNU General Public License v3.0
