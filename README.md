@@ -1,4 +1,4 @@
-# reservation-form-react
+# QuickReserve
 
 ## Live Demo
 - [jenwin.github.io/reservation-form-react](https://jenwin.github.io/reservation-form-react/)
