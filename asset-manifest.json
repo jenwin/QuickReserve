@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/QuickReserve/static/css/main.151e0e88.css",
-    "main.js": "/QuickReserve/static/js/main.11fe58d6.js",
+    "main.js": "/QuickReserve/static/js/main.274fdc46.js",
     "index.html": "/QuickReserve/index.html",
     "main.151e0e88.css.map": "/QuickReserve/static/css/main.151e0e88.css.map",
-    "main.11fe58d6.js.map": "/QuickReserve/static/js/main.11fe58d6.js.map"
+    "main.274fdc46.js.map": "/QuickReserve/static/js/main.274fdc46.js.map"
   },
   "entrypoints": [
     "static/css/main.151e0e88.css",
-    "static/js/main.11fe58d6.js"
+    "static/js/main.274fdc46.js"
   ]
 }
