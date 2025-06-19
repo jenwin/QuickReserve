@@ -1,6 +1,9 @@
 # QuickReserve
 QuickReserve is a simple, lightweight reservation form designed for restaurant bookings. It enables customers to quickly submit their reservation details, including name, contact information, date, time, and number of guests.
 
+## Live Demo
+[jenwin.github.io/QuickReserve](https://jenwin.github.io/QuickReserve/)
+
 ## Features
 - Reservation form for restaurant bookings
 - Collects essential information: name, contact details, date, time, and number of guests
@@ -10,9 +13,6 @@ QuickReserve is a simple, lightweight reservation form designed for restaurant b
 ## Technologies
 - React
 - Sass 
-
-## Live Demo
-[jenwin.github.io/QuickReserve](https://jenwin.github.io/QuickReserve/)
 
 ## License
 GNU General Public License v3.0
